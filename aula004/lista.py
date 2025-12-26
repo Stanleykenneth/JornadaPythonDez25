@@ -1,4 +1,5 @@
 # Estrutura de dados  Aula 15/12/2025
+# Lista serve para armazenar tipos iguais  de dados
 
 nomes = ['Joao', 'Maria', 'Jose']
 numeros = [10, 52, 41, 67]
