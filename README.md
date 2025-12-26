@@ -4,5 +4,5 @@ Aulas jornada Python
 Aulas: 
  - Aula002 (08//12/2025) - Entrada de Dados 
  - Aula004 (15/12/2025) - Lista, Tuplas e dicionários
- - Aula005 (17/15/2025) - Estrutura de repetição, funções e modularização.
- 
+ - Aula005 (17/12/2025) - Estrutura de repetição, funções e modularização.
+
